@@ -1,8 +1,8 @@
 
-![Newbie](https://ministryofjustice/laa-playpen-for-newbies/gavin.ling/images/imnew.png)
+
 ## This place is yours to do with what you want.:+1:
 
-
+![newbie](https://user-images.githubusercontent.com/28729693/27434963-6150a1f6-5752-11e7-9d7c-f4e938087e99.png)
 
 Edit this page as you see fit, Add a folder off the main root and try to confine your fiddlings to your own areas.
 
